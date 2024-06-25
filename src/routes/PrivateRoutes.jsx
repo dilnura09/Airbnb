@@ -29,7 +29,7 @@ const PrivateRoutes = () => {
                 <Route path="/login" element={<Home />} />
                 <Route path="/online" element={<Online />} />
                 <Route path="/product/:id" element={<Dynamicpage />} />
-                <Route path="/wishlist" element={<Likespage />} />
+                <Route path="/wishlisti" element={<Likespage />} />
                 <Route path="/host/home" element={<Homehost />} />
                 <Route path="/super" element={<FilterRoutes />} />
                 <Route path="/arctica" element={<Arctika />} />

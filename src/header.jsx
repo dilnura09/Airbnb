@@ -84,13 +84,13 @@ const Header = () => {
             <img src="https://cdn3.iconfinder.com/data/icons/feather-5/24/search-256.png" alt="" className=" h-6"/>
             <span>Поиск</span>
           </div>
-          <Link to={"/wishlist"} className=" flex flex-col items-center justify-center">
+          <Link to={"/wishlisti"} className=" flex flex-col items-center justify-center">
             <img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-outline-256.png" className=" h-6" alt="" />
             <span>Вишлисты</span>
           </Link>
           <div className="flex flex-col items-center justify-cente">
             <img src="05.jpg" alt="" className=" h-6" />
-            
+
             <span>Войти</span>
           </div>
         </div>
