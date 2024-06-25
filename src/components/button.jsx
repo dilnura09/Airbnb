@@ -22,7 +22,7 @@ const Button =()=>{
                <div>
                <Link>Зарегистравация</Link>
                 <h2>войти </h2>
-                <Link to={"/wishlisti"}>вишлисты </Link>
+                <Link to={"/wishlist"}>вишлисты </Link>
                 <div className=" h-[1px] bg-gray-300 my-2"></div>
                 <Link to={"/host/home"}>Cдать жилье на Айрбнб </Link>
                 <h2>Сентр помощи</h2>
